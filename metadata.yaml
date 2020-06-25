@@ -1,0 +1,30 @@
+_repo: A-voros-postakocsi-Regeny_62415
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krúdy, Gyula
+    aliases:
+    - Круди, Дюла
+    - Krudy, Gyula
+    birthdate: 1878
+    deathdate: 1933
+    gutenberg_agent_id: '41227'
+    url: http://www.gutenberg.org/2009/agents/41227
+    wikipedia:
+    - https://hu.wikipedia.org/wiki/Kr%C3%BAdy_Gyula
+    - https://en.wikipedia.org/wiki/Gyula_Kr%C3%BAdy
+description: ''
+gutenberg_issued: '2020-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62415'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'A vörös postakocsi: Regény'
+url: http://www.gutenberg.org/ebooks/62415
